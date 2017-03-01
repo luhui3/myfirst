@@ -3,4 +3,6 @@ myfirst
 
 first repository
 
-remote  commit!
+remote first commit!
+
+second commit！
